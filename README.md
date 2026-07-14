@@ -13,8 +13,3 @@ Funciones:
 - Factorial
 - Fibonacci
 
-Conceptos aplicados:
-- Programación Orientada a Objetos
-- Clases
-- Métodos
-- Separación de responsabilidades
